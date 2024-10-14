@@ -58,11 +58,11 @@ input[type="date"] {
     border: 1px solid #ddd;
     border-radius: 4px;
     box-shadow: none;
-    transition: border 0.3s; /* Transisi border */
+    transition: border 0.3s; 
 }
 
 input[type="date"]:focus {
-    border-color: #3498db; /* Warna border saat fokus */
+    border-color: #3498db; 
 }
 
 button {
